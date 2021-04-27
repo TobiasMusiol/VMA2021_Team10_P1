@@ -28,13 +28,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b60e4dc-de5e-4552-a3cc-95aafc732cd5" name="Default Changelist" comment="" />
+    <list default="true" id="7b60e4dc-de5e-4552-a3cc-95aafc732cd5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_API_30]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -67,7 +70,7 @@
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -194,9 +197,9 @@
       <screen x="81" y="0" width="2479" height="1440" />
     </state>
     <state width="1191" height="349" key="GridCell.Tab.0.right/81.0.2479.1440/-3778.-191.2498.1440@81.0.2479.1440" timestamp="1619091260782" />
-    <state x="821" y="364" key="SettingsEditor" timestamp="1618992997250">
+    <state x="821" y="364" key="SettingsEditor" timestamp="1619544301588">
       <screen x="81" y="0" width="2479" height="1440" />
     </state>
-    <state x="821" y="364" key="SettingsEditor/81.0.2479.1440/-3778.-191.2498.1440@81.0.2479.1440" timestamp="1618992997250" />
+    <state x="821" y="364" key="SettingsEditor/81.0.2479.1440/-3778.-191.2498.1440@81.0.2479.1440" timestamp="1619544301588" />
   </component>
 </project>
