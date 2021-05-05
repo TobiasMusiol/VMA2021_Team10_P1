@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aufgabe_1_2</string>
+    <string name="goto_2">GOTO ACTIVITY 2</string>
+    <string name="input_text">Eingabe für Activity 2</string>
+</resources>
