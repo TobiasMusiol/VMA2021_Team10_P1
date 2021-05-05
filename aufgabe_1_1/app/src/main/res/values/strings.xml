@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Praktikum 1 - Aufgabe 1.1</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="tobias">Tobias Musiol</string>
+    <string name="maalik">Maalik Kaufhold</string>
+    <string name="goto_2">GOTO 2</string>
+    <string name="goto_3">GOTO 3</string>
+    <string name="goto_1">GOTO 1</string>
+</resources>
