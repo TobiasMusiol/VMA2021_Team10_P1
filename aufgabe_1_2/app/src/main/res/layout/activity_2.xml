@@ -23,5 +23,20 @@
         android:importantForAutofill="no"
         tools:ignore="LabelFor" />
 
+    <TextView
+        android:id="@+id/info"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="@string/wert_im_bundle"
+        android:textSize="12pt"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/output"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text=""
+        android:textSize="12pt"
+        android:gravity="center"/>
 
 </LinearLayout>
